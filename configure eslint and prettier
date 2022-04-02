@@ -1,0 +1,5 @@
+1// npm i -D eslint prettier eslint-config-prettier  eslint-plugin-prettier  eslint-config-airbnb eslint-plugin-node eslint-plugin-import  eslint-plugin-react
+
+2// npm install eslint-plugin-jsx-a11y --save-dev
+
+
